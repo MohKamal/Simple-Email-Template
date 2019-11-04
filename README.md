@@ -5,4 +5,8 @@
 <li>All pictures are in dist > images.</li>
 <li>Hope it can help you!</li>
 <li><b>Hakuna Matata</b></li>
+<<<<<<< HEAD
 </ul>git add
+=======
+</ul>
+>>>>>>> 29ba13a32c99f4b17f7648cb8387e945d99a08b0
